@@ -1,0 +1,74 @@
+- Label ----- DISPLAY
+- HTML tag
+- CSS Tag
+- Attributes 
+- Content 
+- Refresh On Change         checkbox
+- Footer Label 
+- Label position
+- Background Color 
+- Pen Color 
+- Input Type 
+- Hide Input Labels         checkbox
+- Inputs Label Position 
+- Display in Timezone 
+- Use Locale Settings       checkbox
+- Allow Manual Input        checkbox
+- Format 
+- Options Label Position 
+- Widget Type                   
+- Placeholder
+- Number of Rows
+- Number of Columns
+- Clone Row Components      checkbox
+- Cell Alignment 
+- Custom CSS Class 
+- Rows
+- Column Properties 
+- Auto adjust columns       checkbox
+- Action 
+- Show Validations          checkbox
+- Save On Enter             checkbox
+- Title
+- Theme
+- Size
+- Block Button              checkbox
+- Left Icon 
+- Right Icon 
+- Shortcut 
+- Description
+- Tooltip
+- Disable Adding / Removing Rows    checkbox
+- Show key column before value      checkbox
+- Open First Row when Empty 
+- Display EditGrid as Table 
+- Conditional Add Button 
+- Allow Reorder             checkbox
+- Add Another Text 
+- Add Another Position 
+- Equal column width        checkbox
+- Enable Row Groups         checkbox
+- Initialize Empty          checkbox
+- Label for Key column 
+- Prefix
+- Suffix
+- Widget
+- Input mask
+- Display mask
+- Apply Mask On 
+- Editor 
+- Tabs
+- Auto Expand               checkbox
+- Input Mask Placeholder Char 
+- Allow Multiple Masks      checkbox
+- Tab Index 
+- Autocomplete --------------
+- Hidden 
+- Hide Label 
+- Show Word Counter 
+- Show Character Counter 
+- Hide Input 
+- Initial Focus 
+- Allow Spellcheck
+- Disabled 
+- Modal Edit 
